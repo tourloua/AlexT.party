@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
             const projectName = event.target.innerText;
             switch (projectName) {
                 case 'Google Data Analytics Capstone Project':
-                    window.location.href = 'https://www.google.com/';//change this to capstone website
+                    window.location.href = 'https://notalextourloukis.github.io/alextourloukisdatacapstone/';
                     break;
                 case 'ENGINEER 1P13 Final Project':
                     window.location.href = 'https://www.youtube.com/';//change this to 1p13 final website
