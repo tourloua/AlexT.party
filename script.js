@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     window.location.href = 'https://notalextourloukis.github.io/alextourloukisdatacapstone/';
                     break;
                 case 'ENGINEER 1P13 Final Project':
-                    window.location.href = 'https://www.youtube.com/';//change this to 1p13 final website
+                    window.location.href = 'https://tourloua.github.io/1p13capstone/';
                     break;
             }
         }
