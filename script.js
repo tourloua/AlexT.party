@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 case 'Solar Tracker':
                     window.location.href = 'https://tourloua.github.io/Solar-Tracker/';
                     break;
-                    case 'LIDAR 3D Scanner':
+                    case 'LiDAR 3D Scanner':
                         window.location.href = 'https://tourloua.github.io/3D-LiDar-Scanner/';
                         break;
 
