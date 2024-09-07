@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 case 'Google Data Analytics Capstone':
                     window.location.href = 'https://tourloua.github.io/alextourloukisdatacapstone/';
                     break;
-                case 'ENGINEER 1P13 Final Project':
+                case 'OpenCV Spice Reader':
                     window.location.href = 'https://tourloua.github.io/1p13capstone/';
                     break;
                 case 'Solar Tracker':
