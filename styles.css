@@ -18,30 +18,30 @@ body {
 
 .centered-text {
     position: absolute;
-    top: 32%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    top: 20%;
+    left: 20%;
+    transform: translate(-12.5%, -50%);
     text-align: center;
-    font-size: 3.1vw;
+    font-size: 5vw;
     color: #faf9bb;
     text-decoration: underline;
 }
 
 .additional-text {
     position: absolute;
-    top: 45%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 20%;
+    transform: translate(-12.5%, -50%);
     text-align: center;
     margin: 2% auto 0;
-    font-size: 1vw;
+    font-size: 2.5vw;
     color: #faf9bb;
     text-decoration: none;
 }
 
 .info-table {
     position: absolute;
-    top: 45%;
+    top: 65%;
     left: 7.5%;
     width: 85%;
     margin: 10% auto 0;
