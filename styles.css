@@ -61,3 +61,21 @@ body {
 .info-table td:hover {
     color: white;
 }
+.bottom-text {
+    position: absolute;
+    bottom: 2%;
+    left: 2%;
+    text-align: left;
+    font-size: 1vw;
+    color: #faf9bb;
+    text-decoration: none;
+}
+
+.bottom-link {
+    color: #faf9bb;
+    text-decoration: underline;
+}
+
+.bottom-link:hover {
+    color: white;
+}
